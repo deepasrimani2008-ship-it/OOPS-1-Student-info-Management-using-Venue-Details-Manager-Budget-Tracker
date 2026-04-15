@@ -1,0 +1,2 @@
+# OOPS-1-Student-info-Management-using-Venue-Details-Manager-Budget-Tracker
+This repository contains multiple Java Object-Oriented Programming (OOP) mini projects created for learning and practice. It includes applications like a budget tracker, student management system, and venue details program. Each project demonstrates core OOP concepts such as classes, objects, constructors, and user input handling in Java.
